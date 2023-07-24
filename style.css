@@ -6,6 +6,9 @@ body{
 #principal{
     width: 900px;
 }
+#conteudo-principal{
+    width: 900px;
+}
 #informacoes{
     background-color: #c5c5b2;
     padding: 18px;
@@ -22,4 +25,12 @@ a{
 #sobre-annabella{
     background-color: #e8e8d9;
     padding: 10px;
+}
+#direitos-reservados{
+    text-align: center;
+}
+#biografia{
+    background-color: #e8e8d9;
+    padding: 10px;
+
 }
